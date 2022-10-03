@@ -1,0 +1,22 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  background: #F3F5FC;
+}
+
+nav, .footer {
+  background-color: #0A3871;
+}
+
+.btn-primary {
+  background-color: #0A3871;
+  border-color: #0A3871;
+}
+
+.btn-outline-primary {
+  border-color: #0A3871;
+  color: #0A3871;
+}
+
+.subrayado{
+  display:flex;
+}
